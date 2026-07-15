@@ -21,6 +21,20 @@ The project demonstrates the complete data analytics workflow—from data cleani
 
 ## Project Workflow
 
+Raw Dataset
+      ↓
+Excel Data Cleaning
+      ↓
+SQL Analysis
+      ↓
+Power BI Data Modeling
+      ↓
+DAX Measures
+      ↓
+Interactive Dashboard
+      ↓
+Business Insights
+
 ### 1. Data Cleaning (Excel)
 
 - Removed duplicate records
