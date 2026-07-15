@@ -24,3 +24,4 @@ DIVIDE(
     0
 )
 ```
+Format: Percentage
