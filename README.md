@@ -93,7 +93,21 @@ Dashboard Screenshots/
 
 ## Dashboard Preview
 
-(Add screenshots here)
+### Overall Dashboard
+![Overall Dashboard](Dashboard%20Screenshots/Overall_page.png)
+
+### Revenue Analysis
+![Revenue Analysis](Dashboard%20Screenshots/Revenue%20Analysis.png)
+
+### Cancellation Analysis
+![Cancellation Analysis](Dashboard%20Screenshots/Cancellation_Analysis.png)
+
+### Vehicle Type Analysis
+![Vehicle Type Analysis](Dashboard%20Screenshots/Vehicle_type_page.png)
+
+### Ratings Analysis
+![Ratings Analysis](Dashboard%20Screenshots/Ratings_page.png)
+
 
 ---
 
@@ -115,19 +129,3 @@ Dashboard Screenshots/
 ## Author
 
 **Rudresh Mishra**
-## Dashboard Preview
-
-### Overall Dashboard
-![Overall Dashboard](Dashboard%20Screenshots/Overall_page.png)
-
-### Revenue Analysis
-![Revenue Analysis](Dashboard%20Screenshots/Revenue%20Analysis.png)
-
-### Cancellation Analysis
-![Cancellation Analysis](Dashboard%20Screenshots/Cancellation_Analysis.png)
-
-### Vehicle Type Analysis
-![Vehicle Type Analysis](Dashboard%20Screenshots/Vehicle_type_page.png)
-
-### Ratings Analysis
-![Ratings Analysis](Dashboard%20Screenshots/Ratings_page.png)
