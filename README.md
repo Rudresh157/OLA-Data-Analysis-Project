@@ -1,4 +1,6 @@
-# Ola Ride Data Analysis
+# 🚖 Ola Ride Data Analysis
+
+End-to-end Data Analytics Project using Excel, SQL, and Power BI
 
 ## Project Overview
 
